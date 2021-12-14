@@ -1,1 +1,1 @@
-# a-private-searial-protocal-unit-test-to-validate-machine-component-installed
+# a-private-serial-protocal-unit-test-to-validate-machine-component-installed
